@@ -1,5 +1,4 @@
-{
-  "questions": [
+ [
   {
   "question": "How can I create an account?",
   "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process."
@@ -316,8 +315,7 @@
   "question": "Can I return a product if it was purchased during a promotional event?",
   "answer": "Yes, you can return a product purchased during a promotional event. The refund will be processed based on the amount paid after any applicable discounts."
   }
-  ]
-  }
+ ]
   
   
   
